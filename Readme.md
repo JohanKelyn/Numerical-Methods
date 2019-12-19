@@ -1,6 +1,6 @@
 # Numerical Methods I
 
-This repository includes all material from my numerical methods class at NYU. This repository is part of a two-course series meant to introduce Ph.D. students in mathematics and computer science to the fundamentals of numerical mathematics. All the code will be implemented in Matlab.
+This repository includes all material from my numerical methods class at NYU. This repository is part of a two-course series meant to introduce Ph.D. students in mathematics and computer science to the fundamentals of numerical mathematics. Every chapter will include a python notebook with theoretical material and examples done in Matlab.
 
 Topics Include:
 * Systems of linear equations
