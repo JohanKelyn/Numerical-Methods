@@ -3,12 +3,12 @@
 This repository includes all material from my numerical methods class at NYU. This repository is part of a two-course series meant to introduce Ph.D. students in mathematics and computer science to the fundamentals of numerical mathematics.
 
 Topics Include:
-1.- Systems of linear equations
-2.- Overdetermined linear systems
-3.- Singular Value Decomposition and Eigenvalue Problems
-4.- Nonlinear equations and optimization
-5.- Function approximation and interpolation in one dimension
-6.- Numerical integration in one dimension
+* Systems of linear equations
+* Overdetermined linear systems
+* Singular Value Decomposition and Eigenvalue Problems
+* Nonlinear equations and optimization
+* Function approximation and interpolation in one dimension
+* Numerical integration in one dimension
 
 The theorical material and examples are taken from the following resources:
 - L.N. Trefethen and D. Bau, III, Numerical Linear Algebra, SIAM (1997)
