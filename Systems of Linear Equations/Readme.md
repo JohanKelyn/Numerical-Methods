@@ -3,7 +3,7 @@
 This chapter focuses on solving the system <strong>Ax = b</strong>. We cover different methods for solving this system. The methods covered in this section are:
 
 - Gaussian Elimination
-  - LU factorisation
+  - LU factorization
   - Pivoting / PA = LU Factorization
 - Cholesky Factorization for Symmetric Matrices
 
