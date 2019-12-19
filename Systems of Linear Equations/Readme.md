@@ -1,6 +1,6 @@
 # System of Linear Equations
 
-This chapter focuses on solving the system <strong>Ax = b<\strong>. We cover different methods for solving this system. The methods covered in this section are:
+This chapter focuses on solving the system <strong>Ax = b</strong>. We cover different methods for solving this system. The methods covered in this section are:
 
 - Gaussian Elimination
 - LU factorisation
