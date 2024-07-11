@@ -2,12 +2,12 @@
 
 This repository is an implemnetation of all the Numerical Methods Algorithms in C++. The project will include algorithms solving problems for topics listed below. Additionally, each section will include the theorical background needed to understand the algorithm as well as its mathematical and runtime analysis.
 * Matrix Factorization
-  * SVD
+  * LU Factorization
+  * PA-LU Factorization
   * QR Factorization
   * Gram-Schmidt Orthogonalization
   * Householder Triangularization
-  * LU Factorization
-  * PA-LU Factorization
+  * SVD
 
 * System of Equations Solvers
   * Gaussian Elimination
