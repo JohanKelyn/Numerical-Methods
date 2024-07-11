@@ -30,9 +30,9 @@ This repository is an implemnetation of all the Numerical Methods Algorithms in 
   
  
 * Eigenvalues
-  ** Power Iteration
-  ** Inverse Power Iteration
-  ** Rayleigh Quotient
-  ** QR Algorithms without Shifts
-  ** QR Algorithm with Shifts
-  ** Other Eigenvalue Algorithms
+  * Power Iteration
+  * Inverse Power Iteration
+  * Rayleigh Quotient
+  * QR Algorithms without Shifts
+  * QR Algorithm with Shifts
+  * Other Eigenvalue Algorithms
