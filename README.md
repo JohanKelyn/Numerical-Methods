@@ -1,4 +1,4 @@
-# Numerical Linear Algebra 
+# Numerical Methods
 
 This repository is an implemnetation of all the Numerical Methods Algorithms in C++. The project will include algorithms solving problems for topics listed below. Additionally, each section will include the theorical background needed to understand the algorithm as well as its mathematical and runtime analysis.
 * Matrix Factorization
