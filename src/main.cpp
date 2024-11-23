@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "TESTING" << "/n";
+  std::cout << "TESTING\n";
   auto f = [](double x) { return x * x * x + x - 1; };
   double a = 0;
   double b = 1;

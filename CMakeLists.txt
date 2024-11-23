@@ -10,3 +10,6 @@ target_include_directories(${CMAKE_PROJECT_NAME}
                             PUBLIC ${CMAKE_SOURCE_DIR}/../ext/eigen/
                             PUBLIC ${CMAKE_SOURCE_DIR}/Linear_Solvers/
 )
+
+target_link_directories(${CMAKE_PROJECT_NAME} PUBLIC ${CMAKE_SOURCE_DIR}/Linear_Solvers/build/)
+target_link_libraries(${CMAKE_PROJECT_NAME} linearsolvers)
