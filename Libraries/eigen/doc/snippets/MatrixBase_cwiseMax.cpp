@@ -1,2 +1,0 @@
-Vector3f v(2,3,4), w(4,2,3);
-cout << v.cwiseMax(w) << endl;
